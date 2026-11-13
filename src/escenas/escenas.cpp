@@ -11,6 +11,9 @@ const SceneEntry kScenes[] = {
     {  6, "Esfera maciza, hueca y burbuja", build_scene_06 },
     {  7, "La piscina", build_scene_07 },
     {  8, "Matrioshka de vidrio", build_scene_08 },
+    {  20, "Atenuacion con la distancia", build_scene_20 },
+    {  21, "Refraccion en superficie plana", build_scene_21 },
+    {  22, "Comparacion: difuso, espejo y vidrio", build_scene_22 },
 
 };
 
